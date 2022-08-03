@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Willians Nascimento
 
-- 🌱 Atualmente estudando: HTML,CSS,REACT e javascript. Fazendo também Faculdade de Análise e desenvolvimento de sistemas.
+
+- 🌱 Atualmente estou estudando: HTML,CSS,REACT e javascript. Fazendo também Faculdade de Análise e desenvolvimento de sistemas.
 - 📫 Contate-me mo email: nascimento.will13@outlook.com
 - 😄 Pronouns: ele/dele
 
