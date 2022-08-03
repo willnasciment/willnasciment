@@ -4,7 +4,7 @@
 - 📫 Contate-me mo email: nascimento.will13@outlook.com
 - 😄 Pronouns: ele/dele
 
-<div align="center">
+<div>
   <a href="https://github.com/willnasciment">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willnasciment&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willnasciment&layout=compact&langs_count=7&theme=dark"/>
