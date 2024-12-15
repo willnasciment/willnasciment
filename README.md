@@ -1,7 +1,13 @@
 ## Olá! Eu sou o Willians Nascimento
 
 
-- 🌱 Atualmente estou estudando: HTML,CSS,REACT e javascript. Fazendo também Faculdade de Análise e desenvolvimento de sistemas.
+- 🌱 FORMAÇÃO ACADÊMICA
+      FMU Centro Universitário 2022 - 2024
+      Tecnólogo em Análise e Desenvolvimento de Sistemas.
+
+- HABILIDADES TÉCNICAS
+   HTML, CSS, JavaScript, React.js, MySQL e Versionamento Github
+
 - 📫 Contate-me mo email: nascimento.will13@outlook.com
 - 😄 Pronouns: ele/dele
 
