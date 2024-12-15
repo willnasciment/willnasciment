@@ -2,8 +2,8 @@
 
 
 - FORMAÇÃO ACADÊMICA
-   - FMU Centro Universitário 2022 - 2024
-   - Tecnólogo em Análise e Desenvolvimento de Sistemas.
+   FMU Centro Universitário 2022 - 2024
+   Tecnólogo em Análise e Desenvolvimento de Sistemas.
 
 - HABILIDADES TÉCNICAS
    - HTML, CSS, JavaScript, React.js, MySQL e Versionamento Github
