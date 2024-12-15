@@ -6,7 +6,7 @@
    - Tecnólogo em Análise e Desenvolvimento de Sistemas.
 
 - HABILIDADES TÉCNICAS
-   HTML, CSS, JavaScript, React.js, MySQL e Versionamento Github
+   - HTML, CSS, JavaScript, React.js, MySQL e Versionamento Github
 
 - 📫 Contate-me mo email: nascimento.will13@outlook.com
 - 😄 Pronouns: ele/dele
