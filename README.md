@@ -1,12 +1,12 @@
 ## Olá! Eu sou o Willians Nascimento
 
 
-- 🌱 FORMAÇÃO ACADÊMICA
-      FMU Centro Universitário 2022 - 2024
-      Tecnólogo em Análise e Desenvolvimento de Sistemas.
+- FORMAÇÃO ACADÊMICA
+   - FMU Centro Universitário 2022 - 2024
+   - Tecnólogo em Análise e Desenvolvimento de Sistemas.
 
 - HABILIDADES TÉCNICAS
-   HTML, CSS, JavaScript, React.js, MySQL e Versionamento Github
+   HTML, CSS, JavaScript, React.js, MySQL e Versionamento Github
 
 - 📫 Contate-me mo email: nascimento.will13@outlook.com
 - 😄 Pronouns: ele/dele
